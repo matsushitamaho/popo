@@ -2,7 +2,7 @@
 title: "CRUD機能"
 emoji: "📝"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["Ruby","Rails","Ruby on Rails","初心者"]
+topics: ["Ruby","Rails",,"初心者"]
 published: true
 ---
 # CRUD機能とは
